@@ -19,3 +19,8 @@ The HTTP server is implemented using Perl's `HTTP::Server::Simple::CGI` module. 
    ```bash
    git clone https://github.com/your-username/perl-http-server.git
    ```
+## Future Improvements
+- Add more routes and functionalities to the HTTP server.
+- Implement a more advanced routing system.
+- Add support for templates or views.
+- Improve security and error handling.
